@@ -10,8 +10,6 @@ This project is still under development. Expect errors in recognition of emoji o
 3. Trained a CNN on these images.
 4. As of today there are 11 facial expressions. (Discussed later).
 
-## Outcome
-Watch it <a href="https://youtu.be/izUO2rl0Ur8">here</a>.
 
 ## Requirements 
 0. Python 3.x
